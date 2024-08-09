@@ -11,51 +11,33 @@ export default function Testimoni() {
   const [slideItem] = useState([
     {
       img: image.customer1,
-      description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta
-                  quisquam eaque autem obcaecati, reprehenderit modi accusamus
-                  praesentium ea quam quo a velit temporibus quia delectus ipsam
-                  deserunt tenetur suscipit. Sint?`,
-      name: "John Doe 32, Bromo",
+      description: `Terbaik, pemilik ramah!`,
+      name: "Bobby, Bromo",
     },
     {
       img: image.customer2,
-      description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta
-                  quisquam eaque autem obcaecati, reprehenderit modi accusamus
-                  praesentium ea quam quo a velit temporibus quia delectus ipsam
-                  deserunt tenetur suscipit. Sint?`,
-      name: "Clara Style 18, Prambanan",
+      description: `Kondisi mobil sangant bagus , bersih, dan wangi`,
+      name: "Thoriq, Prambanan",
     },
     {
       img: image.customer3,
-      description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta
-                  quisquam eaque autem obcaecati, reprehenderit modi accusamus
-                  praesentium ea quam quo a velit temporibus quia delectus ipsam
-                  deserunt tenetur suscipit. Sint?`,
-      name: "Henry Star 18, Bali",
+      description: `Haraganya paling murah seantero Karawang Raya`,
+      name: "Rentokill, Bali",
     },
     {
       img: image.customer1,
-      description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta
-                  quisquam eaque autem obcaecati, reprehenderit modi accusamus
-                  praesentium ea quam quo a velit temporibus quia delectus ipsam
-                  deserunt tenetur suscipit. Sint?`,
-      name: "John Doe 32, Bromo",
+      description: `Ga menyesal pinjem mobil disini`,
+      name: "Youana, Bromo",
     },
     {
       img: image.customer2,
-      description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta
-                  quisquam eaque autem obcaecati, reprehenderit modi accusamus
-                  praesentium ea quam quo a velit temporibus quia delectus ipsam
-                  deserunt tenetur suscipit. Sint?`,
-      name: "Clara Style 18, Prambanan",
+      description: `Mantap, recomended!!!`,
+      name: "Bodit, Purwokerto",
     },
     {
       img: image.customer3,
-      description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta
-                  quisquam eaque autem obcaecati, reprehenderit modi accusamus
-                  praesentium ea quam quo a velit temporibus quia delectus ipsam
-                  deserunt tenetur suscipit. Sint?`,
-      name: "Henry Star 18, Bali",
+      description: `Juara untuk pelayanannya`,
+      name: "Erdi, Bali",
     },
   ]);
 

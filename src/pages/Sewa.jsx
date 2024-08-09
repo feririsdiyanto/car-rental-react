@@ -144,12 +144,13 @@ export default function Sewa() {
                     <div className="card pb-2">
                       <img
                         src={e.image}
-                        className="card-img-top img-fluid"
+                        className="card-img-top"
+                        // className="card-img-top img-fluid"
                         alt={e.name}
                       />
                       <div className="card-body">
                         <h6>{e.name}</h6>
-                        <label>{e.price}</label>
+                        <label>Rp {e.price}</label>
                         <p>
                           Lorem ipsum dolor sit amet consectetur adipisicing
                           elit. Tempora, accusamus!

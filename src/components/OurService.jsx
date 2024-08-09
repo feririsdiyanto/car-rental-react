@@ -17,7 +17,7 @@ function OurService() {
             <div className="col-12 col-md-6">
               <h2>Best Car Rental for any kind of trip in KIIC!</h2>
               <p>
-                Sewa mobil di KIIC bersama Binar Car Rental jaminan harga
+                Sewa mobil di KIIC bersama TMMIN Car Rental jaminan harga
                 lebih murah dibandingkan yang lain, kondisi mobil baru, serta
                 kualitas pelayanan terbaik untuk perjalanan wisata, bisnis,
                 wedding, meeting, dll.
