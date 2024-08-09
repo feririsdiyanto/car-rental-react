@@ -8,7 +8,6 @@ import Detail from './pages/Detail';
 function App() {
   return (
     <>
-      {/* <Home/> */}
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/Sewa' element={<Sewa />} />
